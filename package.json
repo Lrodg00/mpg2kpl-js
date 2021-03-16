@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lrodg00/mpg2kpl-js/issues"
   },
-  "homepage": "https://github.com/Lrodg00/mpg2kpl-js#readme"
+  "homepage": "https://github.com/Lrodg00/mpg2kpl-js#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
