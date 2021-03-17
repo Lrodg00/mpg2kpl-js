@@ -9,6 +9,6 @@ function mpg2kpl(mpg) {
     return mpg * kpm * gpl
 }
 
-console.log(mpg2kpl(25))
+console.log(mpg2kpl(52))
 
 
